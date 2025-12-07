@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 SDE at Onlighten Media - Final Year B.Tech CSE<br>🌱 Quick Learner & Proficient Developer<br>🎯 Elevate my Skills & Secure an SDE role<br>✉️ Reach me at: <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a><br>🌐 Visit my portfolio: <a href="https://soham-banik-portfolio.vercel.app/" target="_blank">Soham's Portfolio</a></p>
+<p align="left">💻 Software Engineer at Onlighten Media - Final Year B.Tech CSE<br>🌱 Quick Learner & Proficient Developer<br>🎯 Elevate my Skills & Secure an SDE role<br>✉️ Reach me at: <a href="mailto:soham0110banik@gmail.com">soham0110banik@gmail.com</a><br>🌐 Visit my portfolio: <a href="https://soham-banik-portfolio.vercel.app/" target="_blank">Soham's Portfolio</a></p>
 
 ###
 
